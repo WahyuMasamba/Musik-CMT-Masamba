@@ -1,7 +1,7 @@
 {
     "name": "CMT Vc Player",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
-    "keywords": ["Zaid", "Veez Music", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
+    "keywords": ["CMT", "Veez Music", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
     "repository": "https://github.com/WahyuMasamba/Musik-CMT-Masamba",
   "stack": "container",
     "env": {
@@ -20,7 +20,7 @@
             "value": "1904094450"
         },
         "LOG_GROUP_ID": {
-            "description": "Add @Zaid2_robot and type /id to get ur chat id",
+            "description": "Add @MissRose_bot and type /id to get ur chat id",
             "required": true,
             "value": "Fill There Ur Private/Channel Id Make sure start with -100"
         },
