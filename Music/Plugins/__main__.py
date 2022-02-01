@@ -1,3 +1,3 @@
-## © Zaid Vc Player https://github.com/Itsunknown-12/Zaid-Vc-Player
+## © CMT Vc Player https://github.com/WahyuMasamba/Musik-CMT-Masamba
 
-## @Superior_bots
+## @Collection_MovieTerbaik
