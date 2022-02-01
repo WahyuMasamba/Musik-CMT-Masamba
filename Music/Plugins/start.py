@@ -37,9 +37,8 @@ async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/797e2fd172b1b65bad264.jpg",
         caption=f"""**A Telegram Music Bot Based Mongodb.
- Add Me To Ur Chat For and Help and And Support Click On Buttons  ...
-💞  These Features A.I Based 
-Powered By [ᴢᴀɪᴅ ʙᴏᴛꜱ](t.me/superior_bots) ...
+ Silahkan Join di Group kami dan rate subtitle kami ya  ...
+Powered By [CMT ʙᴏᴛꜱ](t.me/Collection_MovieTerbaik) ...
 **""",
     reply_markup=InlineKeyboardMarkup(
             [
@@ -50,7 +49,7 @@ Powered By [ᴢᴀɪᴅ ʙᴏᴛꜱ](t.me/superior_bots) ...
                 ],
                 [
                     InlineKeyboardButton(
-                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/RequestMovie84"
+                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://telegra.ph/%E1%B4%84%E1%B4%8F%E1%B4%8D%E1%B4%8D%E1%B4%80%C9%B4%E1%B4%85%EA%9C%B1-01-31"
                     ),
                     InlineKeyboardButton(
                         "ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/WahyuMasamba/Musik-CMT-Masamba"
@@ -61,7 +60,7 @@ Powered By [ᴢᴀɪᴅ ʙᴏᴛꜱ](t.me/superior_bots) ...
                         "📢 ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                     InlineKeyboardButton(
-                        "ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🇮🇳", url=f"https://t.me/{ZAID_SUPPORT}"
+                        "ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🇮🇩🇳", url=f"https://t.me/{ZAID_SUPPORT}"
                     )
                 ]
                 
