@@ -52,7 +52,7 @@ async def load_start():
             print("Error came while clearing db")
             pass     
     await app.send_message(LOG_GROUP_ID, "Music Bot Started")
-    await client.send_message(LOG_GROUP_ID, "Assistant Of Zaid Music Started")
+    await client.send_message(LOG_GROUP_ID, "Assistant Of CMT Music Started")
     print("[INFO]: STARTED THE ZAID BOT AND SENDING THE INFO TO ZAID SERVER")
     
    
